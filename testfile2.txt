@@ -1,1 +1,3 @@
 test file 2
+
+kalimat baris 2
